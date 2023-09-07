@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Homestay:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Homestay_jar</output-path>
+    <root id="archive" name="Homestay.jar">
+      <element id="module-output" name="Homestay" />
+    </root>
+  </artifact>
+</component>
